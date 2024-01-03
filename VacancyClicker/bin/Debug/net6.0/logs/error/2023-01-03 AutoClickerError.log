@@ -1,0 +1,177 @@
+2023-01-03 12:32:10.9772| VacancyClicker.SetupMethods.<ActionLogging>b__5_4| ERROR| OpenQA.Selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=108.0.5359.125)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.EventFiringWebElement.Click()| stale element reference: element is not attached to the page document
+  (Session info: chrome=108.0.5359.125)
+===========================END===========================
+
+2023-01-03 12:40:43.9423| VacancyClicker.SetupMethods.<ActionLogging>b__5_4| ERROR| OpenQA.Selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=108.0.5359.125)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.EventFiringWebElement.Click()| stale element reference: element is not attached to the page document
+  (Session info: chrome=108.0.5359.125)
+===========================END===========================
+
+2023-01-03 12:58:05.1532| VacancyClicker.SetupMethods.<ActionLogging>b__5_4| ERROR| OpenQA.Selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=108.0.5359.125)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.EventFiringWebElement.Click()| stale element reference: element is not attached to the page document
+  (Session info: chrome=108.0.5359.125)
+2023-01-03 13:05:59.1946| VacancyClicker.SetupMethods.<ActionLogging>b__5_4| ERROR| OpenQA.Selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=108.0.5359.125)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.EventFiringWebElement.Click()| stale element reference: element is not attached to the page document
+  (Session info: chrome=108.0.5359.125)
+===========================END===========================
+
+2023-01-03 13:11:11.2570| VacancyClicker.SetupMethods.<ActionLogging>b__5_4| ERROR| OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <a class="bloko-button bloko-button_kind-primary bloko-button_scale-small" data-qa="vacancy-serp__vacancy_response" href="/applicant/vacancy_response?vacancyId=74816144&amp;hhtmFrom=vacancy_search_list">...</a> is not clickable at point (644, 908). Other element would receive the click: <div class="content--Tw_hgk7tDEdzKjokZPmP">...</div>
+  (Session info: chrome=108.0.5359.125)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.EventFiringWebElement.Click()| element click intercepted: Element <a class="bloko-button bloko-button_kind-primary bloko-button_scale-small" data-qa="vacancy-serp__vacancy_response" href="/applicant/vacancy_response?vacancyId=74816144&amp;hhtmFrom=vacancy_search_list">...</a> is not clickable at point (644, 908). Other element would receive the click: <div class="content--Tw_hgk7tDEdzKjokZPmP">...</div>
+  (Session info: chrome=108.0.5359.125)
+===========================END===========================
+
+2023-01-03 14:40:32.7825| VacancyClicker.SetupMethods.<ActionLogging>b__5_4| ERROR| OpenQA.Selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=108.0.5359.125)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.EventFiringWebElement.Click()| stale element reference: element is not attached to the page document
+  (Session info: chrome=108.0.5359.125)
+===========================END===========================
+
+2023-01-03 14:45:57.3990| VacancyClicker.SetupMethods.<ActionLogging>b__5_4| ERROR| OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <a class="bloko-button bloko-button_kind-primary bloko-button_scale-small" data-qa="vacancy-serp__vacancy_response" href="/applicant/vacancy_response?vacancyId=74815189&amp;hhtmFrom=vacancy_search_list">...</a> is not clickable at point (644, 881). Other element would receive the click: <div class="text--FQ6xA3qx38QCMYvAC3JC">...</div>
+  (Session info: chrome=108.0.5359.125)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.EventFiringWebElement.Click()| element click intercepted: Element <a class="bloko-button bloko-button_kind-primary bloko-button_scale-small" data-qa="vacancy-serp__vacancy_response" href="/applicant/vacancy_response?vacancyId=74815189&amp;hhtmFrom=vacancy_search_list">...</a> is not clickable at point (644, 881). Other element would receive the click: <div class="text--FQ6xA3qx38QCMYvAC3JC">...</div>
+  (Session info: chrome=108.0.5359.125)
+===========================END===========================
+
+2023-01-03 14:51:12.6425| VacancyClicker.SetupMethods.<ActionLogging>b__5_4| ERROR| OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <a class="bloko-button bloko-button_kind-primary bloko-button_scale-small" data-qa="vacancy-serp__vacancy_response" href="/applicant/vacancy_response?vacancyId=73030971&amp;hhtmFrom=vacancy_search_list">...</a> is not clickable at point (644, 877). Other element would receive the click: <div class="content--Tw_hgk7tDEdzKjokZPmP">...</div>
+  (Session info: chrome=108.0.5359.125)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.EventFiringWebElement.Click()| element click intercepted: Element <a class="bloko-button bloko-button_kind-primary bloko-button_scale-small" data-qa="vacancy-serp__vacancy_response" href="/applicant/vacancy_response?vacancyId=73030971&amp;hhtmFrom=vacancy_search_list">...</a> is not clickable at point (644, 877). Other element would receive the click: <div class="content--Tw_hgk7tDEdzKjokZPmP">...</div>
+  (Session info: chrome=108.0.5359.125)
+===========================END===========================
+
+2023-01-03 15:01:24.5914| VacancyClicker.SetupMethods.<ActionLogging>b__5_4| ERROR| OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <a class="bloko-button bloko-button_kind-primary bloko-button_scale-small" data-qa="vacancy-serp__vacancy_response" href="/applicant/vacancy_response?vacancyId=74017278&amp;hhtmFrom=vacancy_search_list">...</a> is not clickable at point (644, 908). Other element would receive the click: <div class="content--Tw_hgk7tDEdzKjokZPmP">...</div>
+  (Session info: chrome=108.0.5359.125)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.EventFiringWebElement.Click()| element click intercepted: Element <a class="bloko-button bloko-button_kind-primary bloko-button_scale-small" data-qa="vacancy-serp__vacancy_response" href="/applicant/vacancy_response?vacancyId=74017278&amp;hhtmFrom=vacancy_search_list">...</a> is not clickable at point (644, 908). Other element would receive the click: <div class="content--Tw_hgk7tDEdzKjokZPmP">...</div>
+  (Session info: chrome=108.0.5359.125)
+===========================END===========================
+
+2023-01-03 15:03:30.8110| VacancyClicker.SetupMethods.<ActionLogging>b__5_4| ERROR| OpenQA.Selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=108.0.5359.125)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.EventFiringWebElement.Click()| stale element reference: element is not attached to the page document
+  (Session info: chrome=108.0.5359.125)
+===========================END===========================
+
+2023-01-03 15:15:17.0483| VacancyClicker.SetupMethods.<ActionLogging>b__5_4| ERROR| OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"partial link text","selector":"Откликнуться"}
+  (Session info: chrome=108.0.5359.125)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.FindElement(By by)| no such element: Unable to locate element: {"method":"partial link text","selector":"Откликнуться"}
+  (Session info: chrome=108.0.5359.125)
+===========================END===========================
+
+2023-01-03 15:17:43.3721| VacancyClicker.SetupMethods.<ActionLogging>b__5_4| ERROR| OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <a class="bloko-button bloko-button_kind-primary bloko-button_scale-small" data-qa="vacancy-serp__vacancy_response" href="/applicant/vacancy_response?vacancyId=74193640&amp;hhtmFrom=vacancy_search_list">...</a> is not clickable at point (644, 16). Other element would receive the click: <div class="bloko-modal-container bloko-modal-container_visible" data-qa="bloko-modal">...</div>
+  (Session info: chrome=108.0.5359.125)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.EventFiringWebElement.Click()| element click intercepted: Element <a class="bloko-button bloko-button_kind-primary bloko-button_scale-small" data-qa="vacancy-serp__vacancy_response" href="/applicant/vacancy_response?vacancyId=74193640&amp;hhtmFrom=vacancy_search_list">...</a> is not clickable at point (644, 16). Other element would receive the click: <div class="bloko-modal-container bloko-modal-container_visible" data-qa="bloko-modal">...</div>
+  (Session info: chrome=108.0.5359.125)
+===========================END===========================
+
+2023-01-03 15:54:23.9344| VacancyClicker.SetupMethods.<ActionLogging>b__5_4| ERROR| OpenQA.Selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=108.0.5359.125)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.EventFiringWebElement.Click()| stale element reference: element is not attached to the page document
+  (Session info: chrome=108.0.5359.125)
+===========================END===========================
+
+2023-01-03 16:19:11.6248| VacancyClicker.SetupMethods.<ActionLogging>b__5_4| ERROR| OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <a class="bloko-button bloko-button_kind-primary bloko-button_scale-small" data-qa="vacancy-serp__vacancy_response" href="/applicant/vacancy_response?vacancyId=74019331&amp;hhtmFrom=vacancy_search_list">...</a> is not clickable at point (644, 16). Other element would receive the click: <div class="bloko-modal-container bloko-modal-container_visible" data-qa="bloko-modal">...</div>
+  (Session info: chrome=108.0.5359.125)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.EventFiringWebElement.Click()| element click intercepted: Element <a class="bloko-button bloko-button_kind-primary bloko-button_scale-small" data-qa="vacancy-serp__vacancy_response" href="/applicant/vacancy_response?vacancyId=74019331&amp;hhtmFrom=vacancy_search_list">...</a> is not clickable at point (644, 16). Other element would receive the click: <div class="bloko-modal-container bloko-modal-container_visible" data-qa="bloko-modal">...</div>
+  (Session info: chrome=108.0.5359.125)
+===========================END===========================
+
+2023-01-03 16:28:43.2534| VacancyClicker.SetupMethods.<ActionLogging>b__5_4| ERROR| System.Threading.ThreadAbortException: System error.
+   at System.Diagnostics.Debugger.CustomNotification(ICustomDebuggerNotification data)
+   at System.Diagnostics.Debugger.NotifyOfCrossThreadDependencySlow()
+   at System.Threading.Tasks.Task.InternalWaitCore(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.FindElement(By by)| System error.
+2023-01-03 16:38:54.2171| VacancyClicker.SetupMethods.<ActionLogging>b__5_4| ERROR| System.Threading.ThreadAbortException: System error.
+   at System.Diagnostics.Debugger.CustomNotification(ICustomDebuggerNotification data)
+   at System.Diagnostics.Debugger.NotifyOfCrossThreadDependencySlow()
+   at System.Threading.Tasks.Task.InternalWaitCore(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.FindElement(By by)| System error.

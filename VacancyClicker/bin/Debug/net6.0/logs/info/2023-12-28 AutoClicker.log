@@ -1,0 +1,199 @@
+2023-12-28 10:29:19.4088| VacancyClicker.Tests`1.Setup| DEBUG| TestDashboard Lowding in - OpenQA.Selenium.Chrome.ChromeDriver| 
+2023-12-28 10:29:24.1328| VacancyClicker.SetupMethods.GoToLocalUrl| INFO| Opened url =>https://hh.ru/applicant/resumeview/history?resumeHash=01be9d68ff07e8c2ef0039ed1f663764787741&hhtmFrom=resume_list| 
+2023-12-28 10:29:24.1328| VacancyClicker.Tests`1.Setup| DEBUG| Exiting Setup in TestDashboard| 
+2023-12-28 10:32:05.8867| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:05.9640| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:05.9640| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:05.9775| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:06.2488| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_117)_Clicking| 
+2023-12-28 10:32:06.3639| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_117)_Clicked| 
+2023-12-28 10:32:06.3639| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:06.3925| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:09.4060| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:09.4242| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:09.7019| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_119)_Clicking| 
+2023-12-28 10:32:09.7712| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_119)_Clicked| 
+2023-12-28 10:32:09.7712| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:09.8036| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:12.8041| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:12.8337| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:13.1010| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_130)_Clicking| 
+2023-12-28 10:32:13.1654| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_130)_Clicked| 
+2023-12-28 10:32:13.1654| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:13.2009| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:16.2060| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:16.2365| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:16.5032| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_178)_Clicking| 
+2023-12-28 10:32:16.5691| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_178)_Clicked| 
+2023-12-28 10:32:16.5691| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:16.6061| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:19.6140| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:19.6496| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:19.9253| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_181)_Clicking| 
+2023-12-28 10:32:19.9872| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_181)_Clicked| 
+2023-12-28 10:32:19.9872| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:20.0299| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:23.0362| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:23.0732| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:23.3473| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_205)_Clicking| 
+2023-12-28 10:32:23.4109| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_205)_Clicked| 
+2023-12-28 10:32:23.4109| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:23.4532| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:26.4628| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:26.5068| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:26.7898| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_233)_Clicking| 
+2023-12-28 10:32:26.8550| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_233)_Clicked| 
+2023-12-28 10:32:26.8550| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:26.8984| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:29.9063| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:29.9743| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:30.2510| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_250)_Clicking| 
+2023-12-28 10:32:30.3158| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_250)_Clicked| 
+2023-12-28 10:32:30.3158| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:30.3664| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:33.3813| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:33.4245| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:33.6953| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_271)_Clicking| 
+2023-12-28 10:32:33.7661| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_271)_Clicked| 
+2023-12-28 10:32:33.7661| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:33.8136| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:36.8163| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:36.8646| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:37.1293| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_274)_Clicking| 
+2023-12-28 10:32:37.2029| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_274)_Clicked| 
+2023-12-28 10:32:37.2029| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:37.2789| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:40.2874| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:40.3360| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:40.5981| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_295)_Clicking| 
+2023-12-28 10:32:40.6918| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_295)_Clicked| 
+2023-12-28 10:32:40.6918| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:40.7450| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:43.7493| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:43.7998| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:44.0614| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_314)_Clicking| 
+2023-12-28 10:32:44.1301| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_314)_Clicked| 
+2023-12-28 10:32:44.1301| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:44.1985| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:47.2011| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:47.2561| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:47.5292| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_340)_Clicking| 
+2023-12-28 10:32:47.6030| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_340)_Clicked| 
+2023-12-28 10:32:47.6030| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:47.6694| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:50.6839| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:32:50.7439| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:32:51.0264| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_357)_Clicking| 
+2023-12-28 10:32:52.1226| VacancyClicker.SetupMethods.<ActionLogging>b__5_4| ERROR| OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <a class="bloko-button bloko-button_kind-success bloko-button_scale-small" data-qa="vacancy-serp__vacancy_response" href="/applicant/vacancy_response?vacancyId=91000711&amp;hhtmFrom=vacancy_search_list">...</a> is not clickable at point (644, 903). Other element would receive the click: <div class="text--WoDDytZXbawqYJLLsZFA text_desktop--D0SbacKBrOHJpxU72UiA">...</div>
+  (Session info: chrome=120.0.6099.130)
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Click()
+   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.EventFiringWebElement.Click()| element click intercepted: Element <a class="bloko-button bloko-button_kind-success bloko-button_scale-small" data-qa="vacancy-serp__vacancy_response" href="/applicant/vacancy_response?vacancyId=91000711&amp;hhtmFrom=vacancy_search_list">...</a> is not clickable at point (644, 903). Other element would receive the click: <div class="text--WoDDytZXbawqYJLLsZFA text_desktop--D0SbacKBrOHJpxU72UiA">...</div>
+  (Session info: chrome=120.0.6099.130)
+2023-12-28 10:33:06.0668| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:06.1304| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:09.1326| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:09.1917| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:09.4661| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_357)_Clicking| 
+2023-12-28 10:33:09.5465| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_357)_Clicked| 
+2023-12-28 10:33:09.5465| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:09.6314| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:12.6327| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:12.6938| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:12.9617| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_378)_Clicking| 
+2023-12-28 10:33:13.0310| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_378)_Clicked| 
+2023-12-28 10:33:13.0310| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:13.1062| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:16.1163| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:16.1789| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:16.4467| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_395)_Clicking| 
+2023-12-28 10:33:16.5206| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_395)_Clicked| 
+2023-12-28 10:33:16.5206| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:16.5980| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:19.6097| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:19.6765| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:19.9573| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_422)_Clicking| 
+2023-12-28 10:33:20.0297| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_422)_Clicked| 
+2023-12-28 10:33:20.0297| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:20.1088| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:23.1108| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:23.1775| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:23.4549| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_447)_Clicking| 
+2023-12-28 10:33:23.5216| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_447)_Clicked| 
+2023-12-28 10:33:23.5216| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:23.6035| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:26.6141| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:26.6882| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:26.9736| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_466)_Clicking| 
+2023-12-28 10:33:27.0502| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_466)_Clicked| 
+2023-12-28 10:33:27.0502| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:27.1305| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:30.1437| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:30.2149| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:30.4858| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_486)_Clicking| 
+2023-12-28 10:33:30.5555| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_486)_Clicked| 
+2023-12-28 10:33:30.5555| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:30.6446| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:33.6468| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:33.7225| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:34.0057| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_509)_Clicking| 
+2023-12-28 10:33:34.0838| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_509)_Clicked| 
+2023-12-28 10:33:34.0838| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:34.1682| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:37.1739| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:37.2488| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:37.5170| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_530)_Clicking| 
+2023-12-28 10:33:37.5832| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_530)_Clicked| 
+2023-12-28 10:33:37.5832| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:37.6718| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:40.6810| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:40.7622| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:41.0263| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_567)_Clicking| 
+2023-12-28 10:33:41.0894| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_567)_Clicked| 
+2023-12-28 10:33:41.0894| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:41.1843| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:44.1991| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:44.2838| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:44.5577| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_570)_Clicking| 
+2023-12-28 10:33:44.6267| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_570)_Clicked| 
+2023-12-28 10:33:44.6267| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:44.7216| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:47.7244| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:51.3562| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:51.6665| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_671)_Clicking| 
+2023-12-28 10:33:51.7683| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_671)_Clicked| 
+2023-12-28 10:33:51.7683| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:33:51.8104| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:33:54.8143| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:34:01.3298| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:34:01.6155| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_707)_Clicking| 
+2023-12-28 10:34:01.7198| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_707)_Clicked| 
+2023-12-28 10:34:01.7198| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:34:01.7381| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:34:04.7489| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:34:04.7626| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:34:05.0328| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_751)_Clicking| 
+2023-12-28 10:34:05.1472| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_751)_Clicked| 
+2023-12-28 10:34:05.1472| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:34:05.1772| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:34:08.1841| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:34:08.4261| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:34:08.7133| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_787)_Clicking| 
+2023-12-28 10:34:08.8056| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = 0D5F1746B1CDEEB495C4BDF14046931A_element_787)_Clicked| 
+2023-12-28 10:34:08.8056| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:34:08.8360| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:34:11.8456| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:34:44.9428| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:34:45.2122| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = C0B4A806675F39C47D81405E4CEE1BCE_element_917)_Clicking| 
+2023-12-28 10:34:45.2947| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = C0B4A806675F39C47D81405E4CEE1BCE_element_917)_Clicked| 
+2023-12-28 10:34:45.2947| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:34:45.3119| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:34:48.3182| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:34:50.6517| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
+2023-12-28 10:34:50.9616| VacancyClicker.SetupMethods.<ActionLogging>b__5_2| TRACE| Element (id = C0B4A806675F39C47D81405E4CEE1BCE_element_961)_Clicking| 
+2023-12-28 10:34:51.0827| VacancyClicker.SetupMethods.<ActionLogging>b__5_3| TRACE| Element (id = C0B4A806675F39C47D81405E4CEE1BCE_element_961)_Clicked| 
+2023-12-28 10:34:51.0827| VacancyClicker.SetupMethods.<ActionLogging>b__5_0| TRACE| By.PartialLinkText: Откликнуться| 
+2023-12-28 10:34:51.1281| VacancyClicker.SetupMethods.<ActionLogging>b__5_1| TRACE| By.PartialLinkText: Откликнуться_FOUND| 
