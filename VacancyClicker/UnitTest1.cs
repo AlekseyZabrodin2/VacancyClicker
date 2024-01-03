@@ -79,7 +79,6 @@ namespace VacancyClicker
 
                 Scroll(0, 700);
 
-
                 try 
                 {                   
                     newButton.Click();
