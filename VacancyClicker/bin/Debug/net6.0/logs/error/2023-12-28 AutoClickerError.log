@@ -1,9 +1,0 @@
-2023-12-28 10:32:52.1226| VacancyClicker.SetupMethods.<ActionLogging>b__5_4| ERROR| OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <a class="bloko-button bloko-button_kind-success bloko-button_scale-small" data-qa="vacancy-serp__vacancy_response" href="/applicant/vacancy_response?vacancyId=91000711&amp;hhtmFrom=vacancy_search_list">...</a> is not clickable at point (644, 903). Other element would receive the click: <div class="text--WoDDytZXbawqYJLLsZFA text_desktop--D0SbacKBrOHJpxU72UiA">...</div>
-  (Session info: chrome=120.0.6099.130)
-   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
-   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
-   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
-   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
-   at OpenQA.Selenium.WebElement.Click()
-   at OpenQA.Selenium.Support.Events.EventFiringWebDriver.EventFiringWebElement.Click()| element click intercepted: Element <a class="bloko-button bloko-button_kind-success bloko-button_scale-small" data-qa="vacancy-serp__vacancy_response" href="/applicant/vacancy_response?vacancyId=91000711&amp;hhtmFrom=vacancy_search_list">...</a> is not clickable at point (644, 903). Other element would receive the click: <div class="text--WoDDytZXbawqYJLLsZFA text_desktop--D0SbacKBrOHJpxU72UiA">...</div>
-  (Session info: chrome=120.0.6099.130)
