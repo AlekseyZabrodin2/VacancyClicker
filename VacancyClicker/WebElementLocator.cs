@@ -34,5 +34,7 @@ namespace VacancyClicker
 
         public IWebElement NextButton => _driver.FindElement(By.PartialLinkText("дальше"));
 
+        public IWebElement AnyWayResponseButton => _driver.FindElement(By.PartialLinkText("Все равно откликнуться"));
+
     }
 }

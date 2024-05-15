@@ -71,6 +71,7 @@ namespace VacancyClicker
             catch (Exception ex)
             {
                 _logger.Warn("Search failed");
+                Console.WriteLine(ex.Message);
                 result = false;
             }
             _logger.Info($"CheckElement result - [{result}]");
