@@ -12,7 +12,9 @@ namespace VacancyClicker
 
         public By RespondButtonLocator = By.PartialLinkText("Откликнуться");
 
+        public By AnywayResponsePopUp = By.CssSelector(".bloko-modal-overlay.bloko-modal-overlay_visible");
 
+        public By AnyWayResponseButtonLocator = By.XPath("//span[text()='Все равно откликнуться']/parent::button");
 
 
 

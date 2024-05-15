@@ -137,13 +137,13 @@ namespace VacancyClicker
 
                     try
                     {
-                        var popUpWindow = wait.Until(ExpectedConditions.ElementIsVisible(By.CssSelector(".bloko-modal-overlay.bloko-modal-overlay_visible")));
+                        var popUpWindow = wait.Until(ExpectedConditions.ElementIsVisible(_locator.AnywayResponsePopUp));
 
                         if (popUpWindow != null)
                         {
                             _driver.SwitchTo().ActiveElement();
 
-                            var anyWayResponseButton = popUpWindow.FindElement(By.XPath("//span[text()='Все равно откликнуться']/parent::button"));
+                            var anyWayResponseButton = popUpWindow.FindElement(_locator.AnyWayResponseButtonLocator);
 
                             anyWayResponseButton.Click();
                         }
