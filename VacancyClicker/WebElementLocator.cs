@@ -2,6 +2,7 @@
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.Events;
 using OpenQA.Selenium.Support.UI;
+using SeleniumExtras.WaitHelpers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -34,7 +35,7 @@ namespace VacancyClicker
 
         public IWebElement NextButton => _driver.FindElement(By.PartialLinkText("дальше"));
 
-        public IWebElement AnyWayResponseButton => _driver.FindElement(By.PartialLinkText("Все равно откликнуться"));
+        public IWebElement AnyWayResponseButton => _wait.Until(ExpectedConditions.ElementIsVisible(By.XPath("//*[contains(text(),'Все равно откликнуться')]")));
 
     }
 }

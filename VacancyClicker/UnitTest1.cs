@@ -137,16 +137,14 @@ namespace VacancyClicker
 
                     try
                     {
-                        var popUpWindow = wait.Until(ExpectedConditions.ElementIsVisible(_locator.AnywayResponsePopUp));
+                        var mainWindowHandle = _driver.CurrentWindowHandle;
+                        var popupWindowHandle = _driver.WindowHandles.Last();
+                        var popUpWindow = _driver.SwitchTo().Window(popupWindowHandle);
 
-                        if (popUpWindow != null)
-                        {
-                            _driver.SwitchTo().ActiveElement();
+                        var anyWayResponseButton = _webElement.AnyWayResponseButton;
+                        anyWayResponseButton.Click();
 
-                            var anyWayResponseButton = popUpWindow.FindElement(_locator.AnyWayResponseButtonLocator);
-
-                            anyWayResponseButton.Click();
-                        }
+                        _driver.SwitchTo().Window(mainWindowHandle);
                     }
                     catch (Exception)
                     {
