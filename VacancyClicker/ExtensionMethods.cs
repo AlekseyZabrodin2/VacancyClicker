@@ -1,10 +1,8 @@
-﻿using OpenQA.Selenium;
+﻿using NLog;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Support.Events;
 using OpenQA.Selenium.Support.UI;
-using System;
-using System.Collections.Generic;
-using System.Text;
-using NLog;
 using SeleniumExtras.WaitHelpers;
 
 namespace VacancyClicker
@@ -34,7 +32,19 @@ namespace VacancyClicker
             fieldForInput.SendKeys(Keys.Backspace);
         }
 
+        public void Scroll(int x, int y)
+        {
+            var actions = new Actions(_driver);
+            actions.ScrollByAmount(x, y);
+            actions.Perform();
+        }
 
+        public void MoveToElement(IWebElement webElement)
+        {
+            var actions = new Actions(_driver);
+            actions.MoveToElement(webElement);
+            actions.Perform();
+        }
 
         public bool IsElementPresent(By locator)
         {
@@ -53,8 +63,6 @@ namespace VacancyClicker
                 throw ex;
             }
         }
-
-
 
         public bool CheckElementExists(By by, int second)
         {
@@ -100,8 +108,6 @@ namespace VacancyClicker
             return false;
         }
 
-
-
         public bool SearchElement(By by, int second)
         {
             bool result = false;
@@ -143,8 +149,6 @@ namespace VacancyClicker
             _logger.Error("Element did not finde");
             return false;
         }
-
-
 
         public bool SearchWindow(By by, int second)
         {

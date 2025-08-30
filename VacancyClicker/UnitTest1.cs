@@ -1,29 +1,18 @@
 using NLog;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
-using OpenQA.Selenium.DevTools.V122.Network;
-using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Support.Events;
 using OpenQA.Selenium.Support.UI;
-using SeleniumExtras.WaitHelpers;
 
 namespace VacancyClicker
 {
     [TestFixture]
-
     [TestFixture(typeof(ChromeDriver))]
 
     public class Tests<TWebDriver> where TWebDriver : IWebDriver, new()
     {
 
         private EventFiringWebDriver _driver;
-        //private LoginCredential _loginCredential;
-        //private DashboardPageLocator _dashboardPageLocator;
-        //private DashboardWebElement _dashboardWebElement;
-        //private DashboardButtonClick _dashboardButtonClick;
-        //private GettingValueMethods _gettingValueMethods;
-        //private WaitMethods _waitMethods;
-
         private WebElementLocator _webElement;
         private ElementLocator _locator;
         private SetupMethods _setupMethods;
@@ -34,16 +23,9 @@ namespace VacancyClicker
         {
             _driver = new EventFiringWebDriver(new TWebDriver());
             _setupMethods = new SetupMethods(_driver);
-            //_loginCredential = new LoginCredential(_driver);
             _extensionMethods = new ExtensionMethods(_driver);
             _locator = new ElementLocator();
             _webElement = new WebElementLocator(_driver);
-            //_dashboardPageLocator = new DashboardPageLocator();
-            //_dashboardWebElement = new DashboardWebElement(_driver);
-            //_dashboardButtonClick = new DashboardButtonClick(_driver);
-            //_gettingValueMethods = new GettingValueMethods(_driver);
-            //_waitMethods = new WaitMethods(_driver);
-
         }
 
         [SetUp]
@@ -58,22 +40,7 @@ namespace VacancyClicker
             _setupMethods.GoToLocalUrl();
 
             _logger.Debug("Exiting Setup in TestDashboard");
-        }
-
-
-        public void Scroll(int x, int y)
-        {
-            var actions = new Actions(_driver);
-            actions.ScrollByAmount(x, y);
-            actions.Perform();
-        }
-
-        public void MoveToElement(IWebElement webElement)
-        {
-            var actions = new Actions(_driver);
-            actions.MoveToElement(webElement);
-            actions.Perform();
-        }
+        }        
 
 
         [Test]
@@ -89,8 +56,7 @@ namespace VacancyClicker
                 try
                 {
                     responseButton.Click();
-
-                    Scroll(0, 600);
+                    _extensionMethods.Scroll(0, 600);
 
                     Thread.Sleep(1000);
                 }
@@ -103,9 +69,8 @@ namespace VacancyClicker
                         var nextButton = _webElement.NextButton;
                         if (nextButton != null)
                         {
-                            MoveToElement(nextButton);
-
-                            Scroll(0, 100);
+                            _extensionMethods.MoveToElement(nextButton);
+                            _extensionMethods.Scroll(0, 100);
 
                             nextButton.Click();
                             Thread.Sleep(2000);
@@ -119,7 +84,6 @@ namespace VacancyClicker
                 }
             }
         }
-
 
         [Test]
         public void FindeVacancyInRussia()
@@ -148,11 +112,11 @@ namespace VacancyClicker
                     }
                     catch (Exception)
                     {
-                        Scroll(0, 600);
+                        _extensionMethods.Scroll(0, 600);
                         Thread.Sleep(1000);
                     }
 
-                    Scroll(0, 600);
+                    _extensionMethods.Scroll(0, 600);
                     Thread.Sleep(1000);
                 }
                 catch (Exception ex)
@@ -164,9 +128,8 @@ namespace VacancyClicker
                         var nextButton = _webElement.NextButton;
                         if (nextButton != null)
                         {
-                            MoveToElement(nextButton);
-
-                            Scroll(0, 100);
+                            _extensionMethods.MoveToElement(nextButton);
+                            _extensionMethods.Scroll(0, 100);
 
                             nextButton.Click();
                             Thread.Sleep(2000);
@@ -180,9 +143,6 @@ namespace VacancyClicker
                 }
             }
         }
-
-
-
 
 
         [TearDown]
